@@ -67,3 +67,4 @@ uamqp
 yarl
 azure-identity
 openai
+azure-ai-vision-face

@@ -1,7 +1,0 @@
-# Azure Text Translation client library for Python (conda)
-
-## 2024.06.01
-
-### Packages included
-
-- azure-ai-translation-text-1.0.0
