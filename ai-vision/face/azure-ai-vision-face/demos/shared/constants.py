@@ -13,11 +13,11 @@ DESCRIPTION:
     This module defines constants required to run the sample codes.
 """
 
-CONFIGURATION_NAME_FACE_API_ENDPOINT = "https://<Replace with valid endpoint>.cognitiveservices.azure.com/"
-CONFIGURATION_NAME_FACE_API_ACCOUNT_KEY = "<Add API Key>"
+CONFIGURATION_NAME_FACE_API_ENDPOINT = "https://eus-face-api.cognitiveservices.azure.com/"
+CONFIGURATION_NAME_FACE_API_ACCOUNT_KEY = "172a66e425914a92b4acdc064e5d9d26"
 
-DEFAULT_FACE_API_ENDPOINT = "https://<Replace with valid endpoint>.cognitiveservices.azure.com/"
-DEFAULT_FACE_API_ACCOUNT_KEY = "<Add API Key>"
+DEFAULT_FACE_API_ENDPOINT = "https://eus-face-api.cognitiveservices.azure.com/"
+DEFAULT_FACE_API_ACCOUNT_KEY = "07df060480e644cd90f6a91463342a66"
 
 
 # Test images
