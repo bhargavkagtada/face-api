@@ -10,7 +10,7 @@ The Azure AI Face service provides AI algorithms that detect, recognize, and ana
 - Face recognition
   - Face verification ("one-to-one" matching)
 - Find similar faces
-- Group faces
+- Group faces/s
 
 ## Getting started
 
